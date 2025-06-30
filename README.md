@@ -11,3 +11,5 @@ This repository contains the **public cryptographic timestamp** for Tex — a se
 
 
 The full manifest is sealed under this SHA-256 fingerprint:
+
+`e1fca94d23c167e26e4b924781d1d106b2ff07e3836cc793a98ce86962f05920`
